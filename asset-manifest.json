@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/mateus841.github.io/static/css/main.da06d349.chunk.css",
-    "main.js": "/mateus841.github.io/static/js/main.8164fa6c.chunk.js",
-    "main.js.map": "/mateus841.github.io/static/js/main.8164fa6c.chunk.js.map",
+    "main.css": "/mateus841.github.io/static/css/main.6c7458f4.chunk.css",
+    "main.js": "/mateus841.github.io/static/js/main.4fdc00cc.chunk.js",
+    "main.js.map": "/mateus841.github.io/static/js/main.4fdc00cc.chunk.js.map",
     "runtime-main.js": "/mateus841.github.io/static/js/runtime-main.c65e8c86.js",
     "runtime-main.js.map": "/mateus841.github.io/static/js/runtime-main.c65e8c86.js.map",
-    "static/js/2.0cfc07cf.chunk.js": "/mateus841.github.io/static/js/2.0cfc07cf.chunk.js",
-    "static/js/2.0cfc07cf.chunk.js.map": "/mateus841.github.io/static/js/2.0cfc07cf.chunk.js.map",
+    "static/js/2.f4eb6666.chunk.js": "/mateus841.github.io/static/js/2.f4eb6666.chunk.js",
+    "static/js/2.f4eb6666.chunk.js.map": "/mateus841.github.io/static/js/2.f4eb6666.chunk.js.map",
     "index.html": "/mateus841.github.io/index.html",
-    "precache-manifest.9efb8218726086b954915951424d6f7a.js": "/mateus841.github.io/precache-manifest.9efb8218726086b954915951424d6f7a.js",
+    "precache-manifest.169d0ab17208a1916b7d0a0305622eb1.js": "/mateus841.github.io/precache-manifest.169d0ab17208a1916b7d0a0305622eb1.js",
     "service-worker.js": "/mateus841.github.io/service-worker.js",
-    "static/css/main.da06d349.chunk.css.map": "/mateus841.github.io/static/css/main.da06d349.chunk.css.map",
-    "static/js/2.0cfc07cf.chunk.js.LICENSE.txt": "/mateus841.github.io/static/js/2.0cfc07cf.chunk.js.LICENSE.txt",
+    "static/css/main.6c7458f4.chunk.css.map": "/mateus841.github.io/static/css/main.6c7458f4.chunk.css.map",
+    "static/js/2.f4eb6666.chunk.js.LICENSE.txt": "/mateus841.github.io/static/js/2.f4eb6666.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mateus841.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/HARD_CODE.png": "/mateus841.github.io/static/media/HARD_CODE.a27ee881.png",
     "static/media/alura.png": "/mateus841.github.io/static/media/alura.5c768993.png",
     "static/media/alura2.png": "/mateus841.github.io/static/media/alura2.64653fdd.png",
     "static/media/buld.jpg": "/mateus841.github.io/static/media/buld.a1051a22.jpg",
@@ -46,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c65e8c86.js",
-    "static/js/2.0cfc07cf.chunk.js",
-    "static/css/main.da06d349.chunk.css",
-    "static/js/main.8164fa6c.chunk.js"
+    "static/js/2.f4eb6666.chunk.js",
+    "static/css/main.6c7458f4.chunk.css",
+    "static/js/main.4fdc00cc.chunk.js"
   ]
 }
